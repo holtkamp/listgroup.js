@@ -1,0 +1,34 @@
+{
+  "name": "listgroup.js",
+  "main": "listgroup.js",
+  "version": "1.1.2",
+  "homepage": "http://rickardn.github.io/listgroup.js/",
+  "authors": [
+    "Rickard Nilsson"
+  ],
+  "description": "Automatically turn your select elements into bootstrap list groups or turn your bootstrap list groups into selectable lists.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bootstrap",
+    "list-group",
+    "select"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eforbus/listgroup.js.git"
+  }
+}
