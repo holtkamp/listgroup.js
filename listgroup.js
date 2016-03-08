@@ -43,7 +43,7 @@
             }
 
             $item.blur();
-            return false;
+            return $item.attr('href') != '#';
         });
     };
 
